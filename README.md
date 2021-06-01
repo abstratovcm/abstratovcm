@@ -4,7 +4,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abstratovcm&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abstratovcm&langs_count=8&theme=cobalt)
 
 ### Contact:
 
